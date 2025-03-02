@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "rogue serenity"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+dateFormat = "January 2, 2006"
+
+# mainSections = ["section1", "section2"]
+# description = "My awesome website"
+
+[params.author]
+name = "Jay Burgess"
+image = "img/jay.png"
+# headline = "I'm only human"
+# bio = "A little bit about you"
+links = [
+  { email = "mailto:info@rogueserenity.com" },
+  { github = "https://github.com/rogueserenity" },
+  { stack-overflow = "https://stackoverflow.com/users/17263826/rogueserenity" },
+  { linkedin = "https://www.linkedin.com/in/jasonaburgess/" },
+]
